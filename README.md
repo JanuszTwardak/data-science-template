@@ -58,7 +58,7 @@ pip install cookiecutter
 
 Create a project based on the template:
 ```bash
-cookiecutter https://github.com/khuyentran1401/data-science-template --checkout dvc-poetry
+cookiecutter https://github.com/JanuszTwardak/data-science-template.git --checkout dvc-poetry
 ```
 
 Resources for a detailed explanation of this template:
